@@ -15,8 +15,8 @@ Os _**Desafios**_ existentes atualmente são:
 - Desafio 3 - Introdução ao GitHub Actions [Link do Repositório](https://github.com/github-mao-na-massa/desafio-3)
 - Desafio 4 - Conhecendo o GitFlow [Link do Repositório](https://github.com/github-mao-na-massa/desafio-4)
 
+<details><summary>Para participar dos desafios é bem simples, basta seguir os passos</summary>
 
-### Para participar dos desafios é bem simples, basta seguir os passos:
 
 1. Criar sua conta no GitHub, se ainda não sabe como fazer, pode assistir o seguinte vídeo: [Oque é o GitHub | Guia para Iniciantes](https://youtu.be/Hs8AUYoCItI?t=952)
 2. Abrir uma issue [neste repositório](https://github.com/github-mao-na-massa/Participe), informando seu nome, e-mail e usuário no GitHub, e também selecionar o desafio que deseja participar
@@ -28,4 +28,4 @@ Os _**Desafios**_ existentes atualmente são:
 
 4. Na issue que você abriu, poderá conferir a url do repositório que foi criado para você para o desafio.
 ![image](https://user-images.githubusercontent.com/5204009/186952766-131a2deb-07c6-4fc3-a860-11362194effd.png)
-
+</details>
