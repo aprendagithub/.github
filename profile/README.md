@@ -15,6 +15,11 @@ Os _**Desafios**_ existentes atualmente são:
 - Desafio 3 - Introdução ao GitHub Actions [Link do Repositório](https://github.com/github-mao-na-massa/desafio-3)
 - Desafio 4 - Conhecendo o GitFlow [Link do Repositório](https://github.com/github-mao-na-massa/desafio-4)
 
+
+## Participe do nossos Grupos
+- [Discord](https://discord.gg/HAr9WFYkpB)
+- [Telegram](https://t.me/github_br)
+
 <details><summary>Para participar dos desafios é bem simples, basta seguir os passos</summary>
 
 
