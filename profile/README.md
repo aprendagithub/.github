@@ -1,4 +1,4 @@
-## GitHub Mão Na Massa
+## GitHub Mão Na Massa (Beta)
 
 Boas vindas a organização do projeto GitHub Mão na Massa!
 
